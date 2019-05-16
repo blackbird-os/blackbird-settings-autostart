@@ -3,7 +3,7 @@
 
 pkgname=blackbird-settings-autostart
 pkgver=$(date +%Y.%m)
-pkgrel=1
+pkgrel=3
 pkgdesc="Default autostart applications for Blackbird OS"
 arch=('any')
 url='https://github.com/blackbird-os/blackbird-settings-autostart'
@@ -11,5 +11,5 @@ license=('GPL')
 
 package() {
   cd ../..
-  cp -aR usr $pkgdir/
+  cp -aR etc $pkgdir/
 }
