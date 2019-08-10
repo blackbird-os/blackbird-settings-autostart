@@ -3,7 +3,7 @@
 
 pkgname=blackbird-settings-autostart
 pkgver=$(date +%Y.%m)
-pkgrel=3
+pkgrel=1
 pkgdesc="Default autostart applications for Blackbird OS"
 arch=('any')
 url='https://github.com/blackbird-os/blackbird-settings-autostart'
