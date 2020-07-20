@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Cadence Preload
+Exec=cadence --minimized
+Icon=cadence
+Terminal=False
+Type=Application

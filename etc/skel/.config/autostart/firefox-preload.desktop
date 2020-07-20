@@ -1,23 +1,7 @@
+#!/usr/bin/env xdg-open
 [Desktop Entry]
-Comment[en_US]=
-Comment=
-Exec=/usr/bin/sh -c "sleep 4 && ksystraycmd5 --hidden /usr/lib/firefox/firefox %u about:blank"
-GenericName[en_US]=
-GenericName=
-Hidden=false
-Icon=firefox
-MimeType=
-Name[en_US]=Firefox Preload
 Name=Firefox Preload
-NoDisplay=false
-Path=
-StartupNotify=true
+Exec=/usr/bin/sh -c "sleep 6 && ksystraycmd5 --hidden /usr/lib/firefox/firefox %u about:blank"
+Icon=firefox
 Terminal=false
-TerminalOptions=
 Type=Application
-X-DBUS-ServiceName=
-X-DBUS-StartupType=
-X-GNOME-Autostart-enabled=true
-X-KDE-SubstituteUID=false
-X-KDE-Username=
-X-KDE-autostart-phase=2
