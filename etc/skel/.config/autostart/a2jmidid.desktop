@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=a2jmidid -e
+Icon=system-run
+Name=a2jmidid
+Path=
+Terminal=False
+Type=Application

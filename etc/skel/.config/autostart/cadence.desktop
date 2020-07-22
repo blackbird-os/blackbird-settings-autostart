@@ -1,7 +1,19 @@
-#!/usr/bin/env xdg-open
 [Desktop Entry]
-Name=Cadence Preload
+Comment[en_US]=
+Comment=
 Exec=cadence --minimized
+GenericName[en_US]=
+GenericName=
 Icon=cadence
-Terminal=False
+MimeType=
+Name[en_US]=Cadence Preload
+Name=Cadence Preload
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
 Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

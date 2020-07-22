@@ -1,7 +1,19 @@
-#!/usr/bin/env xdg-open
 [Desktop Entry]
-Name=Firefox Preload
+Comment[en_US]=
+Comment=
 Exec=/usr/bin/sh -c "sleep 6 && ksystraycmd5 --hidden /usr/lib/firefox/firefox %u about:blank"
+GenericName[en_US]=
+GenericName=
 Icon=firefox
+MimeType=
+Name[en_US]=Firefox Preload
+Name=Firefox Preload
+Path=
+StartupNotify=true
 Terminal=false
+TerminalOptions=
 Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
