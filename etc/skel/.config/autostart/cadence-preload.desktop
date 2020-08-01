@@ -1,20 +1,8 @@
 [Desktop Entry]
-Comment[en_US]=
-Comment=
-Exec=/usr/bin/sh -c "sleep 4 && cadence --minimized"
-GenericName[en_US]=
-GenericName=
-Icon=cadence
-MimeType=
 Name[en_US]=Cadence Preload
 Name=Cadence Preload
-Path=
+Exec=cadence --minimized
+Icon=cadence
 StartupNotify=false
 Terminal=false
-TerminalOptions=
 Type=Application
-X-DBUS-ServiceName=
-X-DBUS-StartupType=
-X-KDE-SubstituteUID=false
-X-KDE-Username=
-X-KDE-autostart-phase=2
